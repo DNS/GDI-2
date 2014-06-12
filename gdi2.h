@@ -5,7 +5,7 @@ Author     : Daniel Sirait
 Copyright  : Copyright (c) 2014 Daniel Sirait
 License    : Public Domain
 Disclaimer : I CAN UNDER NO CIRCUMSTANCES BE HELD RESPONSIBLE FOR
-             ANY CONSEQUENCES OF YOUR USE/MISUSE OF THIS DOCUMENT,
+             ANY CONSEQUENCES OF YOUR USE/MISUSE OF THIS PROGRAM,
              WHATEVER THAT MAY BE (GET BUSTED, WORLD WAR, ETC..).
 
 */
